@@ -1,2 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/14yxjX3y)
-# practica-1
+Created by: nodel1
+Implementación en Java de un juego de cartas de eliminación inspirado en el Tute canario, con baraja española reducida (40 cartas: palos oros, copas, espadas, bastos; valores 1-10). Soporta 2-4 jugadores mixtos (humanos/CPU), con interfaz de consola simple vía Scanner para inputs y outputs textuales. Turnos cíclicos en Partida, robos automáticos si no hay jugada válida, y fin al vaciar mano con resumen de cartas restantes. 
